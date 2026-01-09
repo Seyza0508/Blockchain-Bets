@@ -145,7 +145,7 @@ Manages the betting logic:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/Blockchain-Bets.git
+git clone https://github.com/Seyza0508/Blockchain-Bets.git
 cd Blockchain-Bets
 ```
 
